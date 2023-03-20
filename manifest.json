@@ -1,0 +1,9 @@
+{
+  "short_name": "Alb-quote-gen",
+  "name": "Albanian Quote Generator",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
